@@ -14,7 +14,7 @@
     --cor4: #1a5c37;
     --cor5: #063d1e;
     --fornt-padrao: Arial, Verdana, Helvetica, sans-serif;
-    --font-destaque: 'Bedas Neue', cursive;
+    --font-destaque: 'Bebas Neue', cursive;
     --font-andriid: 'Android', cursive;
 }
 
@@ -39,6 +39,7 @@ header>h1 {
     color: white;
     font-family: var(--font-destaque);
     font-size: 3em;
+    font-weight: none;
     margin-bottom: 20px;
 }
 
